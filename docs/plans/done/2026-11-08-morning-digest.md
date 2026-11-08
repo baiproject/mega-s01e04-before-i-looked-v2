@@ -1,6 +1,6 @@
 ---
 plan: morning-digest
-status: ready
+status: done
 owner: rook
 opened: 2026-10-29
 ---
@@ -77,3 +77,13 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+- §1: https://github.com/baiproject/mega-s01e04-before-i-looked-v2/issues/8
+- §2a: https://github.com/baiproject/mega-s01e04-before-i-looked-v2/issues/9
+- §2b: https://github.com/baiproject/mega-s01e04-before-i-looked-v2/issues/5
+- §2c: https://github.com/baiproject/mega-s01e04-before-i-looked-v2/issues/6
+- §2d: https://github.com/baiproject/mega-s01e04-before-i-looked-v2/issues/7
+- §3: https://github.com/baiproject/mega-s01e04-before-i-looked-v2/issues/10
+- §4: https://github.com/baiproject/mega-s01e04-before-i-looked-v2/issues/11
